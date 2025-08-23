@@ -10,13 +10,5 @@ I am a researcher in observational astronomy studying actively accreting black h
 Currently, I am interested in using variability to identify active black holes in next-generation observatories. My thesis work involved quantifying the biases of selecting active black holes in local dwarf galaxies using observational data from across the electromagnetic spectrum.
 
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Active Black Holes</b></td>
-    <td><b style="font-size:30px">Selection Methods</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
+## Selecting Active Black Holes in Dwarf Galaxies
