@@ -1,7 +1,7 @@
 # Under construction! 
 # Full Webpage coming soon
 
-<img src="/images/ejw_headshot.png" width="48">
+<img src="/images/ejw_headshot.png" width="100">
 
 
 ## Who I Am:
