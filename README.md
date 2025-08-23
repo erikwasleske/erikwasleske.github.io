@@ -1,7 +1,8 @@
 # Under construction! 
 # Full Webpage coming soon
 
-![Profile Picture](/images/ejw_headshot.png)
+<img src="/images/ejw_headshot.png" width="48">
+
 
 ## Who I Am:
 I am a researcher in observational astronomy studying actively accreting black holes at the center of small galaxies. We use these as tools of investigating  the role of accretion in the co-evolution of black holes within their host galaxy over cosmic time. I currently work as a Postdoctoral Research Associate at the University of Illinois in Urbana, Illinois. I received my Ph.D. in Physics from Washington State University in May of 2025 after completing my undergraduate studies in Physics and Astrophysics in 2019 at the University of Minnesota.
