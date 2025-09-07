@@ -4,7 +4,7 @@
 ## Active Dwarf Galaxy Database (ADGD)
 Zipped .fits file containing the database coming soon!
 
-Over years of study, different selection methods have been established to identify active black holes in the center of galaxies using different types of astronomical data. However, their is known inconsistencies and biases for each selection method. This project involved compiling sets of active black holes identifed in low mass (ie. whose stellar mass is $$ <= 10^{9.5} M_\odot$$ galaxies and searching for archival data to apply all known selection techniques to this population. From this, a quantifiable value of the overlap between selection technqiues was established. Furthermore, using spectral energy distribution modelling, the physical reasoning for the disagreement between active black hole selection technqiues is investigated.
+Over years of study, different selection methods have been established to identify active black holes in the center of galaxies using different types of astronomical data. However, their is known inconsistencies and biases for each selection method. This project involved compiling sets of active black holes identifed in low mass (ie. whose stellar mass is $<= 10^{9.5} M_\odot$ galaxies and searching for archival data to apply all known selection techniques to this population. From this, a quantifiable value of the overlap between selection technqiues was established. Furthermore, using spectral energy distribution modelling, the physical reasoning for the disagreement between active black hole selection technqiues is investigated.
 
 
 If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
