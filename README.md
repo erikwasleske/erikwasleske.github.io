@@ -1,7 +1,7 @@
 # Under construction! 
 # Full Webpage coming soon
 
-[Who I am](#who-i-am)  &nbsp;  &nbsp;   &nbsp;  [Active Dwarf Galaxy Database](project-adgd.md)
+[Who I am](#who-i-am)  &nbsp;  &nbsp;   &nbsp;  &nbsp;  [Active Dwarf Galaxy Database](project-adgd.md)
 
 ---
 
