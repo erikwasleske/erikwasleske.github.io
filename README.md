@@ -1,7 +1,7 @@
 # Under construction! 
 # Full Webpage coming soon
 
-[Who I Am](#who-i-am)  &nbsp;  &nbsp;   &nbsp;  &nbsp;  [Active Dwarf Galaxy Database](project-adgd.md) &nbsp;  &nbsp;   &nbsp;  &nbsp; [Publications (ADS)](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=author%3A%22Wasleske%2C%20Erik%20J.%22&sort=date%20desc%2C%20bibcode%20desc)
+[Who I Am](#who-i-am)  &nbsp;  &nbsp;   &nbsp;  &nbsp;  [Active Dwarf Galaxy Database](project-adgd.md) &nbsp;  &nbsp;   &nbsp;  &nbsp; [Full Publications List (ADS)](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=author%3A%22Wasleske%2C%20Erik%20J.%22&sort=date%20desc%2C%20bibcode%20desc)
 
 ---
 
