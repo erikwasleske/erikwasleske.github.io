@@ -26,7 +26,7 @@ Currently, I am interested in using variability to identify active black holes i
     + Deptarment of Astronomy, University of Illinois at Urbana-Champaign
   + Research Assistant, Jan. 2021 - July 2025
     + Department of Physics & Astronomy, Washingston State University
-  + Teaching Assistant, 2018 2019
+  + Teaching Assistant, Aug. 2018 - May 2019
     + Minnesota Institute for Astrophysics, University of Minnesota
 
 My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_blank">PDF.</a>
