@@ -1,7 +1,7 @@
 # Under construction! 
 # Full Webpage coming soon
 
-[Active Dwarf Galaxy Database](project-adgd.md)
+[Who I am](#who-i-am)     [Active Dwarf Galaxy Database](project-adgd.md)
 
 <img src="/images/ejw_headshot.png" width="175">
 
