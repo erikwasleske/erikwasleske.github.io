@@ -6,7 +6,7 @@
 Zipped .fits file containing the database coming soon!
 
 
-If you find the ADGD useful to your work, please consider citing the construction paper: [Active Dwarf Galaxy Database](project-adgd.md)
+If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442]([project-adgd.md](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442))
 [DOI: 10.3847/1538-4357/ad5442] (https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
 
 ### Project Publications:
