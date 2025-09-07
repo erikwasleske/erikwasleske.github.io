@@ -35,6 +35,3 @@ My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_
 Go to [Active Dwarf Galaxy Database](project-adgd.md)
 
 
-
-## Selecting Active Black Holes in Dwarf Galaxies:
-
