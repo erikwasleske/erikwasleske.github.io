@@ -14,8 +14,19 @@ I am a researcher in observational astronomy studying actively accreting black h
 Currently, I am interested in using variability to identify active black holes in low-mass galaxies . My thesis work involved quantifying the biases of selecting active black holes in local dwarf galaxies using observational data from across the electromagnetic spectrum.
 
 ### Education:
+  + Ph.D. in Physics, April 2025
+  + M.S. in Physics, Dec. 2021
+    + Department of Physics & Astronomy, Washingston State University
+  + B.S. in Physics - Professional Studies; B.S. in Astrophysics, May 2019
+    + School of Physics and Astronomy, University of Minnesota
 
-### Professinoal Experience
+### Professional Experience
+  + Postdoctoral Research Associate, Aug. 2025 - Present
+    + Deptarment of Astronomy, University of Illinois at Urbana-Champaign
+  + Research Assistant, Jan. 2021 - July 2025
+    + Department of Physics & Astronomy, Washingston State University
+  + Teaching Assistant, 2018 2019
+    + Minnesota Institute for Astrophysics, University of Minnesota
 
 My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_blank">PDF.</a>
 
