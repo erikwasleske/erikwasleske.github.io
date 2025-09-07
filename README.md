@@ -15,19 +15,20 @@ Currently, I am interested in using Difference Imaging techniques to identify va
 
 ### Education:
   + Ph.D. in Physics, April 2025
-    + Department of Physics & Astronomy, Washingston State University
+    + Department of Physics & Astronomy, Washington State University
   + M.S. in Physics, Dec. 2021
-    + Department of Physics & Astronomy, Washingston State University
+    + Department of Physics & Astronomy, Washington State University
   + B.S. in Physics - Professional Studies; B.S. in Astrophysics, May 2019
     + School of Physics and Astronomy, University of Minnesota
 
 ### Professional Experience
   + Postdoctoral Research Associate, Aug. 2025 - Present
-    + Deptarment of Astronomy, University of Illinois at Urbana-Champaign
+    + Department of Astronomy, University of Illinois at Urbana-Champaign
   + Research Assistant, Jan. 2021 - July 2025
-    + Department of Physics & Astronomy, Washingston State University
+    + Department of Physics & Astronomy, Washington State University
   + Teaching Assistant, Aug. 2018 - May 2019
     + Minnesota Institute for Astrophysics, University of Minnesota
+
 
 My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_blank">PDF.</a>
 
