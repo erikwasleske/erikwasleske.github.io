@@ -11,6 +11,10 @@ Currently, I am interested in using variability to identify active black holes i
 
 My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_blank">PDF.</a>
 
+## Active Dwarf Galaxy Database:
+
+
+
 
 ## Selecting Active Black Holes in Dwarf Galaxies:
 
