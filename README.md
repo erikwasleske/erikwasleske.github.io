@@ -15,6 +15,7 @@ Currently, I am interested in using variability to identify active black holes i
 
 ### Education:
   + Ph.D. in Physics, April 2025
+    + Department of Physics & Astronomy, Washingston State University
   + M.S. in Physics, Dec. 2021
     + Department of Physics & Astronomy, Washingston State University
   + B.S. in Physics - Professional Studies; B.S. in Astrophysics, May 2019
