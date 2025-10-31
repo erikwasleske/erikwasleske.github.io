@@ -30,7 +30,7 @@ Currently, I am interested in using Difference Imaging techniques to identify va
     + Minnesota Institute for Astrophysics, University of Minnesota
 
 
-My full CV can be found here (updated Aug. 2025): <a href="/CV_v2.pdf" target="_blank">PDF.</a>
+My full CV can be found here (updated Aug. 2025): <a href="/CV_ejw.pdf" target="_blank">PDF.</a>
 
 ## Active Dwarf Galaxy Database:
 Go to [Active Dwarf Galaxy Database](project-adgd.md)
