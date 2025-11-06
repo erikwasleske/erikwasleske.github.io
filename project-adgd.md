@@ -2,7 +2,7 @@
 
 ---
 ## Active Dwarf Galaxy Database (ADGD)
-*Visit the project repository for a copy of the database*: https://github.com/erikwasleske/Active-Dwarf-Galaxy-Database
+*Visit the project repository for a copy of the database*: [https://github.com/erikwasleske/Active-Dwarf-Galaxy-Database](https://github.com/erikwasleske/Active-Dwarf-Galaxy-Database)
 
 Over years of study, different selection methods have been established to identify active black holes in the center of galaxies using different types of astronomical data. However, there are known inconsistencies and biases for each selection method. This project involved compiling a set of active black holes identified in low mass galaxies (ie. whose stellar mass is $<= 10^{9.5} M_\odot$) from samples that used different selection methods and searching for archival data to apply all known selection techniques to this total population. From this, a quantifiable value of the overlap between selection techniques was established. Using spectral energy distribution modeling, the physical reasoning for the disagreement between active black hole selection methods is investigated.
 
@@ -14,5 +14,5 @@ Over years of study, different selection methods have been established to identi
 If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
 
 ### Project Publications:
-  + Wasleske, Erik J., Baldassare, Vivienne F., Carroll, Christopher M. arXiv:2510.26716., “Active Dwarf Galaxy Database II: Investigating the Connection between Host Galaxy Parameters and Black Hole Accretion Signatures”. 
+  + Wasleske, Erik J., Baldassare, Vivienne F., Carroll, Christopher M. [arXiv:2510.26716](https://arxiv.org/abs/2510.26716)., “Active Dwarf Galaxy Database II: Investigating the Connection between Host Galaxy Parameters and Black Hole Accretion Signatures”. 
   + Wasleske, Erik J. and Baldassare, Vivienne F. 2024, ApJ, 971, 68. “Active Dwarf Galaxy Database. I. Overlap between Active Galactic Nuclei Selected by Different Techniques”. [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
