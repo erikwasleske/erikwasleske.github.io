@@ -6,6 +6,10 @@
 
 Over years of study, different selection methods have been established to identify active black holes in the center of galaxies using different types of astronomical data. However, there are known inconsistencies and biases for each selection method. This project involved compiling a set of active black holes identified in low mass galaxies (ie. whose stellar mass is $<= 10^{9.5} M_\odot$) from samples that used different selection methods and searching for archival data to apply all known selection techniques to this total population. From this, a quantifiable value of the overlap between selection techniques was established. Using spectral energy distribution modeling, the physical reasoning for the disagreement between active black hole selection methods is investigated.
 
+<img src="/images/BPT_selections_v2.png" width="175">
+
+<img src="/images/mass_function_selected.png" width="175">
+
 
 If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
 
