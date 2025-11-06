@@ -16,6 +16,8 @@ Over years of study, different selection methods have been established to identi
     <figcaption> Cumulative fraction of host galaxy stellar mass for objects selected by different AGN diagnostic techniques.</figcaption>
 </figure>
 
+
+
 If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
 
 ### Project Publications:
