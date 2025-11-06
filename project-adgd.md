@@ -8,7 +8,7 @@ Over years of study, different selection methods have been established to identi
 
 ![BPT diagram for the ADGD](/images/BPT_selections_v2.png "Figure of how populations of dwarf AGN selected by different technqiue lay on a standard optical emission line diagostic (``BPT'') diagram.")
 
-![Cumulative Mass Function for the ADGD](<img src="/images/mass_function_selected.png" width="500"> "Cumulative fraction of host galaxy stellar mass for objects selected by different AGN diagnostic techniques.")
+![Cumulative Mass Function for the ADGD](/images/mass_function_selected.png "Cumulative fraction of host galaxy stellar mass for objects selected by different AGN diagnostic techniques.")
 
 
 If you find the ADGD useful to your work, please consider citing the construction paper: [DOI: 10.3847/1538-4357/ad5442](https://iopscience.iop.org/article/10.3847/1538-4357/ad5442)
